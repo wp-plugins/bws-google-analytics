@@ -1,0 +1,937 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gglnltcs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-24 15:29+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Валентин <valentine.kogut.bws@gmail.com>\n"
+"Language-Team: bestwebsoft <plugin@bestwebsoft.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bws-google-analytics.php:72
+msgid "BWS Google Analytics"
+msgstr "BWS Google Analytics"
+
+#: bws-google-analytics.php:159
+msgid "requires"
+msgstr "вимагає"
+
+#: bws-google-analytics.php:159
+msgid ""
+"or higher, that is why it has been deactivated! Please upgrade WordPress and "
+"try again."
+msgstr ""
+"або вище, тому його було деактивовано! Будь ласка, оновіть WordPress та "
+"спробуйте ще раз."
+
+#: bws-google-analytics.php:159
+msgid "Back to the WordPress"
+msgstr "Повернутися на WordPress"
+
+#: bws-google-analytics.php:159
+msgid "Plugins page"
+msgstr "сторінку плагінів"
+
+#: bws-google-analytics.php:172
+msgid "BestWebSoft Google Analytics Settings"
+msgstr "Налаштування BestWebSoft Google Analytics "
+
+#: bws-google-analytics.php:209
+msgid ""
+"In order to use BestWebSoft Google Analytics plugin, you must be signed in "
+"with a registered Google Account email address and password. If you don't "
+"have Google Account you can create it"
+msgstr ""
+"Щоб використовувати плагін BWS Google Analytics, вы маєте зайти в свій "
+"акаунт Google. Якщо у вас немає акаунта Google, вы можете створити його"
+
+#: bws-google-analytics.php:209
+msgid "here"
+msgstr "тут"
+
+#: bws-google-analytics.php:210
+msgid "Sign In To Google Account"
+msgstr "Зайти в акаунт Google"
+
+#: bws-google-analytics.php:213
+msgid "Or Click Here If You Have Disabled Javascript"
+msgstr "Або клікніть сюди, якщо у вас вимкнений Javascript"
+
+#: bws-google-analytics.php:216
+msgid ""
+"When you finish authorization process you will get Google Authentication "
+"Code. You must enter this code in the field below and press \"Start Plugin\" "
+"button. This code will be used to get an Authentication Token so you can "
+"access your website stats."
+msgstr ""
+"Після завершення процесу авторизації, ви отримаєте код. Вставте цей код в "
+"поле нижче та натисніть \"Вперед\"."
+
+#: bws-google-analytics.php:219
+msgid "Start Plugin"
+msgstr "Вперед "
+
+#: bws-google-analytics.php:225 bws-google-analytics.php:241
+msgid "Invalid code. Please, try again."
+msgstr "Невірний код. Будь ласка, спробуйте ще раз."
+
+#: bws-google-analytics.php:242
+msgid "Back"
+msgstr "Назад"
+
+#: bws-google-analytics.php:316 bws-google-analytics.php:506
+#: bws-google-analytics.php:517
+msgid "Date values must match the pattern YYYY-MM-DD."
+msgstr "Дата має бути у вигляді ГГГГ-ММ-ДД."
+
+#: bws-google-analytics.php:317
+msgid "Any request must supply at least one metric."
+msgstr "Необхідно вибрати хоча б один показник"
+
+#: bws-google-analytics.php:318
+msgid "Invalid Date Range."
+msgstr "Невірний часовий діапазон."
+
+#: bws-google-analytics.php:319 bws-google-analytics.php:1042
+msgid "Unique Visitors"
+msgstr "Кількість унікальних відвідувачів"
+
+#: bws-google-analytics.php:320 bws-google-analytics.php:1052
+msgid "New Visits"
+msgstr "Нові відвідування"
+
+#: bws-google-analytics.php:321 bws-google-analytics.php:1063
+msgid "Visits"
+msgstr "Кількість відвідувань"
+
+#: bws-google-analytics.php:322 bws-google-analytics.php:1073
+msgid "Bounce Rate"
+msgstr "Показник відмов"
+
+#: bws-google-analytics.php:323 bws-google-analytics.php:1083
+msgid "Average Visit Duration"
+msgstr "Середня тривалість відвідувань"
+
+#: bws-google-analytics.php:324 bws-google-analytics.php:1094
+msgid "Pageviews"
+msgstr "Кількість переглядів сторінки"
+
+#: bws-google-analytics.php:325 bws-google-analytics.php:1104
+msgid "Pages / Visit"
+msgstr "Кількість переглянутих сторінок за сеанс "
+
+#: bws-google-analytics.php:338 bws-google-analytics.php:350
+msgid "Settings"
+msgstr "Налаштування"
+
+#: bws-google-analytics.php:351
+msgid "FAQ"
+msgstr "FAQ"
+
+#: bws-google-analytics.php:352
+msgid "Support"
+msgstr "Підтримка"
+
+#: bws-google-analytics.php:364
+msgid "Line Chart"
+msgstr "Лінійний графік"
+
+#: bws-google-analytics.php:365
+msgid "Table Chart"
+msgstr "Таблиця"
+
+#: bws-google-analytics.php:366
+msgid "Tracking Code & Reset"
+msgstr "Код трекінгу та стандартні налаштування"
+
+#: bws-google-analytics.php:442 bws-google-analytics.php:493
+msgid "Metrics"
+msgstr "Показники"
+
+#: bws-google-analytics.php:447 bws-google-analytics.php:519
+msgid "Get Statistic"
+msgstr "Отримати статистику"
+
+#: bws-google-analytics.php:449 bws-google-analytics.php:521
+msgid "This plugin requires JavaScript to work properly."
+msgstr "Для коректної роботи плагіну, увімкніть JavaScript в своему браузері."
+
+#: bws-google-analytics.php:462 bws-google-analytics.php:534
+msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+msgstr ""
+"Якщо вам подобається наш плагін, будь ласка, поставте нам п’ять зірочок на "
+"WordPress"
+
+#: bws-google-analytics.php:463 bws-google-analytics.php:535
+msgid "Rate the plugin"
+msgstr "Оцініть плагін"
+
+#: bws-google-analytics.php:466 bws-google-analytics.php:538
+msgid "If there is something wrong about it, please contact us"
+msgstr "Якщо у вас виникли проблеми, повідомте нам"
+
+#: bws-google-analytics.php:495
+msgid "Dimensions"
+msgstr "Розміри "
+
+#: bws-google-analytics.php:501
+msgid "Start Date"
+msgstr "Початкова дата"
+
+#: bws-google-analytics.php:512
+msgid "End Date"
+msgstr "Кінчева датa"
+
+#: bws-google-analytics.php:554
+msgid "Insert tracking Code To Your Blog"
+msgstr "Вставте код трекінгу у ваш блог"
+
+#: bws-google-analytics.php:566
+msgid "If you want to enable tracking and collect statistic from the"
+msgstr "Якщо ви хочете увімкнути відстеження і отримувати статистику з  "
+
+#: bws-google-analytics.php:566
+msgid ""
+"you need to insert tracking code to your blog. To do this you should follow "
+"next steps"
+msgstr ""
+"вам необхідно розмістити код трекінгу у вашому блозі. Для цього зробіть "
+"наступні кроки"
+
+#: bws-google-analytics.php:567
+msgid "Sign in"
+msgstr "Зайти"
+
+#: bws-google-analytics.php:567
+msgid "to your Google Analytics account. Click "
+msgstr "у ваш акаунт Google Analytics. Клікніть"
+
+#: bws-google-analytics.php:567
+msgid "in the menu bar at the top of any page."
+msgstr "у верхній частині екрану будь-якої сторінки в рядку меню."
+
+#: bws-google-analytics.php:568
+msgid "In the"
+msgstr "у"
+
+#: bws-google-analytics.php:568
+msgid "Account column"
+msgstr "колонці Account"
+
+#: bws-google-analytics.php:568
+msgid ""
+"select the account from the dropdown that you want to add the property to."
+msgstr ""
+"при додаванні ресурсів, виберіть потрібний акаунт із випадаючого списку"
+
+#: bws-google-analytics.php:569
+msgid "In the dropdown in the"
+msgstr "У випадаючому списку"
+
+#: bws-google-analytics.php:569
+msgid "Property column"
+msgstr "колонка Ресурсів"
+
+#: bws-google-analytics.php:569
+msgid "click"
+msgstr "клікніть"
+
+#: bws-google-analytics.php:570 bws-google-analytics.php:715
+msgid "Select"
+msgstr "Виберіть"
+
+#: bws-google-analytics.php:571 bws-google-analytics.php:716
+msgid "Select a tracking method. Click either"
+msgstr "Виберіть метод трекінгу. Клікніть або"
+
+#: bws-google-analytics.php:571 bws-google-analytics.php:716
+msgid "or"
+msgstr "чи"
+
+#: bws-google-analytics.php:571 bws-google-analytics.php:716
+msgid "We strongly recommend Universal Analytics."
+msgstr "Ми настійливо рекомендуємо метод Universal Analytics."
+
+#: bws-google-analytics.php:572 bws-google-analytics.php:573
+#: bws-google-analytics.php:719
+msgid "Enter the"
+msgstr "Введіть"
+
+#: bws-google-analytics.php:572
+msgid "name of your Wordpress blog."
+msgstr "назва вашого блогу."
+
+#: bws-google-analytics.php:573 bws-google-analytics.php:719
+msgid "of your blog"
+msgstr "вашого блогу"
+
+#: bws-google-analytics.php:574 bws-google-analytics.php:720
+msgid "Select an"
+msgstr "Виберіть"
+
+#: bws-google-analytics.php:575 bws-google-analytics.php:721
+msgid "Select the"
+msgstr "Виберіть"
+
+#: bws-google-analytics.php:576 bws-google-analytics.php:578
+#: bws-google-analytics.php:722 bws-google-analytics.php:724
+msgid "Click"
+msgstr "Клікніть"
+
+#: bws-google-analytics.php:577 bws-google-analytics.php:723
+msgid "Copy"
+msgstr "Скопіюйте"
+
+#: bws-google-analytics.php:577 bws-google-analytics.php:723
+msgid "that looks like"
+msgstr "який схожий на"
+
+#: bws-google-analytics.php:577
+msgid "and past it to the field above."
+msgstr "и вставте його в поле вище."
+
+#: bws-google-analytics.php:578 bws-google-analytics.php:724
+#: bws-google-analytics.php:753
+msgid "Insert Code"
+msgstr "Вставити код."
+
+#: bws-google-analytics.php:578 bws-google-analytics.php:724
+msgid "button."
+msgstr "кнопка."
+
+#: bws-google-analytics.php:580
+msgid "Blog tracking is"
+msgstr "Трекінг вашого блогу це"
+
+#: bws-google-analytics.php:580
+msgid "enabled!"
+msgstr "увімкнено!"
+
+#: bws-google-analytics.php:626
+msgid "Accounts"
+msgstr "Акаунти"
+
+#: bws-google-analytics.php:672
+msgid "Webproperties"
+msgstr "Ресурси"
+
+#: bws-google-analytics.php:701
+msgid "There was an Analytics API service error"
+msgstr "Виникла помилка"
+
+#: bws-google-analytics.php:703
+msgid "There was a general API error"
+msgstr "Виникла помилка"
+
+#: bws-google-analytics.php:712
+msgid ""
+"It seems like you are not registered for Google Analytics or you don't have "
+"any Google Analytics Account."
+msgstr ""
+"Схоже, ви не зареєстровані в Google Analytics або у вас немає жодного "
+"акаунту в Google Analytics."
+
+#: bws-google-analytics.php:713
+msgid "To gain access to Analytics you must"
+msgstr "Щоб отримати доступ до Analytics, ви маєте"
+
+#: bws-google-analytics.php:713
+msgid "register for Google Analytics"
+msgstr "зареєструватись для Google Analytics"
+
+#: bws-google-analytics.php:713
+msgid "and create an Analytics account, a one-time, simple process."
+msgstr "і сворити акаунт в Analytics. Це разова і проста процедура."
+
+#: bws-google-analytics.php:715
+msgid "option"
+msgstr "опція"
+
+#: bws-google-analytics.php:717 bws-google-analytics.php:718
+msgid "Under the section called"
+msgstr "В розділі, який називається "
+
+#: bws-google-analytics.php:717
+msgid "enter an "
+msgstr "введіть"
+
+#: bws-google-analytics.php:717
+msgid "Account Name"
+msgstr "назву акаунту"
+
+#: bws-google-analytics.php:717
+msgid ""
+"Use a specific and descriptive name, so you can easily tell what this "
+"account is for when you see the name in the Account list."
+msgstr ""
+"Використайте унікальне та специфічне ім’я, щоб ви могли легко зрозуміти, для "
+"чого було створено цей акаунт."
+
+#: bws-google-analytics.php:718
+msgid "enter the "
+msgstr "введіть"
+
+#: bws-google-analytics.php:718
+msgid "name of your Wordpress blog"
+msgstr "назва вашого блогу у Wordpress"
+
+#: bws-google-analytics.php:723
+msgid "and past it to the field below."
+msgstr "та вставте його в поле нижче."
+
+#: bws-google-analytics.php:749
+msgid "Remove Code"
+msgstr "видалити код"
+
+#: bws-google-analytics.php:766
+msgid "Deauthorize & Reset Settings"
+msgstr "Скинути налаштування і вийти"
+
+#: bws-google-analytics.php:770
+msgid "Log Out"
+msgstr "Вийти"
+
+#: bws-google-analytics.php:817
+msgid "Group by"
+msgstr "Згрупувати по"
+
+#: bws-google-analytics.php:827 bws-google-analytics.php:843
+#: bws-google-analytics.php:897
+msgid "Results"
+msgstr "Результати"
+
+#: bws-google-analytics.php:828
+msgid "Invalid Date Range"
+msgstr "Невірний часовий діапазон"
+
+#: bws-google-analytics.php:853 bws-google-analytics.php:946
+msgid "Jan"
+msgstr "Січ"
+
+#: bws-google-analytics.php:854 bws-google-analytics.php:947
+msgid "Feb"
+msgstr "Лют"
+
+#: bws-google-analytics.php:855 bws-google-analytics.php:948
+msgid "Mar"
+msgstr "Бер"
+
+#: bws-google-analytics.php:856 bws-google-analytics.php:949
+msgid "Apr"
+msgstr "Квіт"
+
+#: bws-google-analytics.php:857 bws-google-analytics.php:950
+msgid "May"
+msgstr "Трав"
+
+#: bws-google-analytics.php:858 bws-google-analytics.php:951
+msgid "Jun"
+msgstr "Черв"
+
+#: bws-google-analytics.php:859 bws-google-analytics.php:952
+msgid "Jul"
+msgstr "Лип"
+
+#: bws-google-analytics.php:860 bws-google-analytics.php:953
+msgid "Aug"
+msgstr "Серп"
+
+#: bws-google-analytics.php:861 bws-google-analytics.php:954
+msgid "Sep"
+msgstr "Вер"
+
+#: bws-google-analytics.php:862 bws-google-analytics.php:955
+msgid "Oct"
+msgstr "Жовт"
+
+#: bws-google-analytics.php:863 bws-google-analytics.php:956
+msgid "Nov"
+msgstr "Лист"
+
+#: bws-google-analytics.php:864 bws-google-analytics.php:957
+msgid "Dec"
+msgstr "Груд"
+
+#: bws-google-analytics.php:1040
+msgid "Total number of visitors for the requested time period."
+msgstr "Загальна кількість відвідувачів за вибраний період часу"
+
+#: bws-google-analytics.php:1043 bws-google-analytics.php:1053
+#: bws-google-analytics.php:1119
+msgid "Visitor"
+msgstr "Відвідувач"
+
+#: bws-google-analytics.php:1050
+msgid ""
+"The number of visitors whose visit to your property was marked as a first-"
+"time visit."
+msgstr "Кількість унікальних відвідувачів."
+
+#: bws-google-analytics.php:1061
+msgid "Counts the total number of sessions."
+msgstr "Підраховує загальну кількість сеансів."
+
+#: bws-google-analytics.php:1064 bws-google-analytics.php:1074
+#: bws-google-analytics.php:1084
+msgid "Session"
+msgstr "Сеанс"
+
+#: bws-google-analytics.php:1071
+msgid ""
+"The percentage of single-page visits (i.e., visits in which the person left "
+"your property from the first page)."
+msgstr ""
+"Показник відмов - це відсоток відвідувань, в ході яких було відкрито не "
+"більше однієї сторінки, тобто коли відвідувач покидає сайт відразу після "
+"сторінки входу. "
+
+#: bws-google-analytics.php:1081
+msgid "The average duration visitor sessions."
+msgstr "Середня тривалість сеансу."
+
+#: bws-google-analytics.php:1092
+msgid "The total number of pageviews for your property."
+msgstr ""
+"Загальна кількість сторінок, що були переглянуті відвідувачами, враховуючи "
+"повторні перегляди."
+
+#: bws-google-analytics.php:1095 bws-google-analytics.php:1105
+msgid "Page Tracking"
+msgstr "Трекінг Сторінок"
+
+#: bws-google-analytics.php:1102
+msgid ""
+"The average number of pages viewed during a visit to your property. Repeated "
+"views of a single page are counted."
+msgstr ""
+"Середня кількість переглядів сторінок в ході одиничного відвідування сайту, "
+"враховуючи повторні перегляди."
+
+#: bws-google-analytics.php:1116
+msgid ""
+"A boolean indicating if a visitor is new or returning. Possible values: New "
+"Visitor, Returning Visitor."
+msgstr ""
+"Показник кількості унікальных чи повторних відвідувачів. Можливі значения: "
+"Новий відвідувач, повторний відвідувач "
+
+#: bws-google-analytics.php:1118
+msgid "Visitor Type"
+msgstr "Тип відвідувачів"
+
+#: bws-google-analytics.php:1127
+msgid "The continents of property visitors, derived from IP addresses."
+msgstr "Континент відвідувачів сайту, отриманих з IP адреси."
+
+#: bws-google-analytics.php:1129
+msgid "Continent"
+msgstr "Континент"
+
+#: bws-google-analytics.php:1130 bws-google-analytics.php:1140
+#: bws-google-analytics.php:1150 bws-google-analytics.php:1160
+#: bws-google-analytics.php:1171 bws-google-analytics.php:1181
+#: bws-google-analytics.php:1191 bws-google-analytics.php:1201
+#: bws-google-analytics.php:1211 bws-google-analytics.php:1221
+msgid "Geo Network"
+msgstr "Гео Мережа"
+
+#: bws-google-analytics.php:1137
+msgid ""
+"The sub-continent of visitors, derived from IP addresses. For example, "
+"Polynesia or Northern Europe."
+msgstr ""
+"Частина континенту, де знаходяться відвідувачі, отримана з IP адреси. "
+"Наприклад, Полінезія чи Північна Європа."
+
+#: bws-google-analytics.php:1139
+msgid "Sub Continent Region"
+msgstr "Субконтинентальний регіон"
+
+#: bws-google-analytics.php:1147
+msgid "The countries of website visitors, derived from IP addresses."
+msgstr "Країни відвідувачів сайту, отримані з IP адрес."
+
+#: bws-google-analytics.php:1149
+msgid "Country / Territory"
+msgstr "Країна / Територія"
+
+#: bws-google-analytics.php:1157
+msgid ""
+"The region of visitors to your property, derived from IP addresses. In the U."
+"S., a region is a state, such as New York."
+msgstr ""
+"Регіон відвідувачів вашого ресурсу, отриманим з IP адреси. В США, регіоном є "
+"штат, такий, як Нью-Йорк."
+
+#: bws-google-analytics.php:1159
+msgid "Region"
+msgstr "Регіон"
+
+#: bws-google-analytics.php:1168
+msgid ""
+"The Designated Market Area (DMA) from where traffic arrived on your property."
+msgstr "Designated Market Area DMA регіон, звідки прийшов трафік на ваш сайт."
+
+#: bws-google-analytics.php:1170
+msgid "Metro"
+msgstr "Metro"
+
+#: bws-google-analytics.php:1178
+msgid "The cities of property visitors, derived from IP addresses."
+msgstr "Міста відвідувачів сайту, отримані з IP адрес."
+
+#: bws-google-analytics.php:1180
+msgid "City"
+msgstr "Місто"
+
+#: bws-google-analytics.php:1188
+msgid ""
+"The approximate latitude of the visitor's city. Derived from IP address. "
+"Locations north of the equator are represented by positive values and "
+"locations south of the equator by negative values."
+msgstr ""
+"Приблизна широта міста відвідувача, отримана з IP адреси. Міста північніше "
+"екватора відображені позитивними значеннями, містя південніше - негативними."
+
+#: bws-google-analytics.php:1190
+msgid "Latitude"
+msgstr "Широта"
+
+#: bws-google-analytics.php:1198
+msgid ""
+"The approximate longitude of the visitor's city. Derived from IP address. "
+"Locations east of the meridian are represented by positive values and "
+"locations west of the meridian by negative values."
+msgstr ""
+"Приблизна довгота міста відвідувача, отримана з IP адреси. Міста східніше "
+"меридіану відображені позитивними значеннями, міста західніше - негативними"
+
+#: bws-google-analytics.php:1200
+msgid "Longitude"
+msgstr "Довгота"
+
+#: bws-google-analytics.php:1208
+msgid ""
+"The domain name of the ISPs used by visitors to your property. This is "
+"derived from the domain name registered to the IP address."
+msgstr ""
+"Ім’я домену ISPs, що використовувався відвідувачами вашого сайту, що "
+"отримане з імені домену, зареєстрованого на IP адресу."
+
+#: bws-google-analytics.php:1210
+msgid "Network Domain"
+msgstr "Мережевий Домен"
+
+#: bws-google-analytics.php:1218
+msgid ""
+"The name of service providers used to reach your property. For example, if "
+"most visitors to your website come via the major service providers for cable "
+"internet, you will see the names of those cable service providers in this "
+"element."
+msgstr ""
+"Назва інтернет провадерів, що використовувались для відвідування вашого "
+"сайту. Наприклад, якщо більшість відвідувачів використовували кабельний "
+"інтернет, ви побачите назви цих провайдерів в цьому полі"
+
+#: bws-google-analytics.php:1220
+msgid "Service Provider"
+msgstr "Інтернет Провайдер"
+
+#: bws-google-analytics.php:1229
+msgid ""
+"The names of browsers used by visitors to your website. For example, "
+"Internet Explorer or Firefox."
+msgstr ""
+"Назви браузерів, що використовувались під час відвідування вашого сайту. "
+"Наприклад, Internet Explorer чи Firefox."
+
+#: bws-google-analytics.php:1231
+msgid "Browser"
+msgstr "Браузер"
+
+#: bws-google-analytics.php:1232 bws-google-analytics.php:1242
+#: bws-google-analytics.php:1252 bws-google-analytics.php:1262
+#: bws-google-analytics.php:1272 bws-google-analytics.php:1282
+#: bws-google-analytics.php:1292 bws-google-analytics.php:1302
+msgid "Platform or Device"
+msgstr "Платформа Пристрою"
+
+#: bws-google-analytics.php:1239
+msgid ""
+"The browser versions used by visitors to your website. For example, 2.0.0.14"
+msgstr ""
+"Версія браузеру, що використовувалась відвідувачами вашого сайту. Например, "
+"2.0.0.14"
+
+#: bws-google-analytics.php:1241
+msgid "Browser Version"
+msgstr "Версія Браузеру"
+
+#: bws-google-analytics.php:1249
+msgid ""
+"The operating system used by your visitors. For example, Windows, Linux , "
+"Macintosh, iPhone, iPod."
+msgstr ""
+"Операційна система, що використовувалась відвідувачами. Наприклад Windows, "
+"Linux, Macintosh, iPhone, iPod."
+
+#: bws-google-analytics.php:1251
+msgid "Operating System"
+msgstr "Операційна система"
+
+#: bws-google-analytics.php:1259
+msgid ""
+"The version of the operating system used by your visitors, such as XP for "
+"Windows or PPC for Macintosh."
+msgstr ""
+"Версія операційної системи, що використовувалась відвідувачами. Наприклад XP "
+"для Windows чи PPC для Macintosh."
+
+#: bws-google-analytics.php:1261
+msgid "Operating System Version"
+msgstr "Версія Операційної системи"
+
+#: bws-google-analytics.php:1269
+msgid "Mobile manufacturer or branded name."
+msgstr "Назва виробника мобільного пристрою."
+
+#: bws-google-analytics.php:1271
+msgid "Mobile Device Branding"
+msgstr "Брендінг Мобільного Пристрою"
+
+#: bws-google-analytics.php:1279
+msgid "Mobile device model."
+msgstr "Модель мобільного пристрою."
+
+#: bws-google-analytics.php:1281
+msgid "Mobile Device Model"
+msgstr "Модель Мобільного Пристрою"
+
+#: bws-google-analytics.php:1289
+msgid ""
+"Selector used on the mobile device (e.g.: touchscreen, joystick, clickwheel, "
+"stylus)."
+msgstr ""
+"Спосіб набору на мобільному пристрої (наприклад: сенсорний екран, джойстик, "
+"колесико, стилус)"
+
+#: bws-google-analytics.php:1291
+msgid "Mobile Input Selector"
+msgstr "Засіб Вибору на Мобільному Пристрої"
+
+#: bws-google-analytics.php:1299
+msgid "The type of device: desktop, tablet, or mobile."
+msgstr "Тип пристрою: ПК, планшет чи мобільний пристрій"
+
+#: bws-google-analytics.php:1301
+msgid "Device Category"
+msgstr "Категорія Пристрою"
+
+#: bws-google-analytics.php:1310
+msgid "The year of the visit. A four-digit year from 2005 to the current year."
+msgstr "Рік відвідування. Чотиризначне число від 2005 до теперішнього року."
+
+#: bws-google-analytics.php:1313 bws-google-analytics.php:1323
+#: bws-google-analytics.php:1333 bws-google-analytics.php:1343
+#: bws-google-analytics.php:1353
+msgid "Time"
+msgstr "Час"
+
+#: bws-google-analytics.php:1320
+msgid "The month of the visit. A two digit integer from 01 to 12."
+msgstr "Місяць відвідування. Двузначне число від 01 до 12."
+
+#: bws-google-analytics.php:1330
+msgid ""
+"The week of the visit. A two-digit number from 01 to 53. Each week starts on "
+"Sunday."
+msgstr ""
+"Тиждень відвідування. Двузначне число від 01 до 53. Кожен тиждень "
+"починається з Суботи."
+
+#: bws-google-analytics.php:1332
+msgid "Week of the Year"
+msgstr "Тиждень року"
+
+#: bws-google-analytics.php:1340
+msgid "The day of the month. A two-digit number from 01 to 31."
+msgstr "День місяця. Двузначне число від 01 до 31."
+
+#: bws-google-analytics.php:1350
+msgid ""
+"A two-digit hour of the day ranging from 00-23 in the timezone configured "
+"for the account. This value is also corrected for daylight savings time, "
+"adhering to all local rules for daylight savings time. If your timezone "
+"follows daylight savings time, there will be an apparent bump in the number "
+"of visits during the change-over hour (e.g. between 1:00 and 2:00) for the "
+"day per year when that hour repeats. A corresponding hour with zero visits "
+"will occur at the opposite changeover. (Google Analytics does not track "
+"visitor time more precisely than hours.)"
+msgstr ""
+"Двузначне значення часу дня у діапазоні 00-23 в тому часовому поясі, що був "
+"встановлений в акаунті. Це значення також відкоректоване для \"літнього\" "
+"часу, дотримуючись всіх локальних правил \"літнього\" часу. Якщо ваш часовий "
+"пояс використовує \"літній\" час, кількість відвідувань під час переходу "
+"(наприклад між 1:00 і 2:00) може відображатись неточно для того дня, коли ці "
+"години повторюються. Відповідно статистика за нульову годину буде "
+"відображена за попередню добу. (Google Analytics не відстежує відвідування "
+"за проміжок менше години)"
+
+#: bws-google-analytics.php:1352
+msgid "Hour"
+msgstr "Година"
+
+#~ msgctxt "group-by"
+#~ msgid "Year"
+#~ msgstr "годам"
+
+#~ msgctxt "group-by"
+#~ msgid "Month"
+#~ msgstr "месяцам"
+
+#~ msgctxt "group-by"
+#~ msgid "Day"
+#~ msgstr "дням"
+
+#~ msgctxt "table-head"
+#~ msgid "Year"
+#~ msgstr "Год"
+
+#~ msgctxt "table-head"
+#~ msgid "Month"
+#~ msgstr "Месяц"
+
+#~ msgctxt "table-head"
+#~ msgid "Day"
+#~ msgstr "Число"
+
+#~ msgid "Google Analytics"
+#~ msgstr "Google Analytics"
+
+#~ msgid "Blog tracking is <span class=\"success-message\">enabled!</span>"
+#~ msgstr ""
+#~ "Отслеживание вашего блога <span class=\"success-message\">включено!</span>"
+
+#~ msgid "Click <strong>Past Code</strong> button."
+#~ msgstr "Нажмите кнопку <strong>Разместить код</strong>."
+
+#~ msgid "Enter the <strong>Website URL</strong> of your blog"
+#~ msgstr "Введите <strong>Website URL</strong> вашего блога"
+
+#~ msgid "Select an <strong>Industry Category</strong>."
+#~ msgstr "Выберите <strong>Industry Category</strong>."
+
+#~ msgid "Select the <strong>Reporting Time Zone</strong>."
+#~ msgstr "Выберите <strong>Reporting Time Zone</strong>."
+
+#~ msgid "Click <strong>Get Tracking ID</strong>."
+#~ msgstr "Нажмите <strong>Get Tracking ID</strong>."
+
+#~ msgid ""
+#~ "Copy <strong>Tracking ID</strong> that looks like <span class=\"tracking-"
+#~ "id\">UA-xxxxx-y</span> and past it to the field above."
+#~ msgstr ""
+#~ "Скопируйте <strong>Tracking ID</strong>, который выглядит следующим "
+#~ "образом <span class=\"tracking-id\">UA-xxxxx-y</span>, и вставьте его в "
+#~ "соответсвующее поле чуть выше данной инструкции."
+
+#~ msgid "Select <strong>Website</strong>"
+#~ msgstr "Выберите <strong>Website</strong>"
+
+#~ msgid ""
+#~ "Select a tracking method. Click either <strong>Universal Analytics</"
+#~ "strong> or <strong>Classic Analytics</strong>. We strongly recommend "
+#~ "Universal Analytics."
+#~ msgstr ""
+#~ "Выберите метод трекинга. Нажмите <strong>Universal Analytics</strong> или "
+#~ "<strong>Classic Analytics</strong>. Мы настоятельно рекомендуем метод "
+#~ "Universal Analytics."
+
+#~ msgid "Enter the <strong>name of your Wordpress blog</strong>."
+#~ msgstr "Введите <strong>название вашего блога</strong>."
+
+#~ msgid ""
+#~ "In the dropdown in the <em>Property column</em>, click <strong>Create new "
+#~ "property.</strong>"
+#~ msgstr ""
+#~ "В колонке <em>Property</em>, нажмите <strong>Create new property.</strong>"
+
+#~ msgid ""
+#~ "Sign in</a> to your Google Analytics account. Click <strong>Admin</"
+#~ "strong> in the menu bar at the top of any page."
+#~ msgstr ""
+#~ "Войдите</a> в ваш Google Analytics аккаунт.  Затем на любой странице в "
+#~ "верхней части экрана  в строке меню нажмите <strong>Admin</strong>."
+
+#~ msgid "Select <strong>Website</strong> option."
+#~ msgstr "Выберите опцию <strong>Website</strong>."
+
+#~ msgid ""
+#~ "Under the section called <em>Setting up your property</em>, enter the "
+#~ "<strong>name of your Wordpress blog</strong>."
+#~ msgstr ""
+#~ "В графе <em>Setting up your property</em>, введите <strong>имя вашего "
+#~ "блога</strong>."
+
+#~ msgid ""
+#~ "Copy <strong>Tracking ID</strong> that looks like <span class=\"tracking-"
+#~ "id\">UA-xxxxx-y</span> and past it to the field below."
+#~ msgstr ""
+#~ "Скопируйте <strong>Tracking ID</strong>, который выглядит следующим "
+#~ "образом <span class=\"tracking-id\">UA-xxxxx-y</span>, и вставьте его в "
+#~ "поле, расположенное ниже."
+
+#~ msgid ""
+#~ "The percentage of visits by people who had never visited your property "
+#~ "before."
+#~ msgstr ""
+#~ "Количество неповторяющихся посетителей сайта (учитывались только один "
+#~ "раз) за указанный период времени. Отображается в процентном соотношении."
+
+#~ msgid "% New Visits"
+#~ msgstr "Процент уникальных посетителей"
+
+#~ msgid "BestWebSoft Google Analytics"
+#~ msgstr "BestWebSoft Google Analytics"
+
+#~ msgid "Choose Metrics"
+#~ msgstr "Выберите показатели"
+
+#~ msgid "Blog tracking is <span class=\"unsuccess-message\">disabled.</span>"
+#~ msgstr ""
+#~ "Отслеживание вашего блога <span class=\"unsuccess-message\">выключено.</"
+#~ "span>"
+
+#~ msgid ", please follow next steps."
+#~ msgstr ", последовательно выполните следующие действия."
+
+#~ msgid "Disable Tracking"
+#~ msgstr "Выключить отслеживание"
+
+#~ msgid "Enable Tracking"
+#~ msgstr "Включить отслеживание"
+
+#~ msgid "You have successfully logged in to Google Account!"
+#~ msgstr "Вы успешно авторизовались в Google Account!"
+
+#~ msgid ""
+#~ "However, just having a Google account does not automatically grant you "
+#~ "access to Analytics. First, you must"
+#~ msgstr ""
+#~ "Тем не менее обычного аккаунта в гугле недостаточно, чтобы иметь доступ к "
+#~ "Analytics. Сначала вам нужно пройти"
+
+#~ msgid "Blog tracking is enabled!"
+#~ msgstr "Отслеживание вашего блога включено!"
+
+#, fuzzy
+#~ msgid "Google Analytics Info Settings"
+#~ msgstr "BestWebSoft Google Analytics настройки"
